@@ -29,6 +29,7 @@ M.S. in Chemistry, Mahidol University, Bangkok, Thailand – GPA: 4.0	2014 – 2
 B.S. in Chemistry, Mahidol University, Bangkok, Thailand – GPA: 3.6	2011 – 2014
 
 ### SKILLS 
+-----------
 •	**Technical**: Unix/Linux, HPC, computational chemistry software (Gaussian, VASP, etc.), data analysis tool (Tableau, MySQL), programming language (Python, SQL), and libraries (TensorFlow/PyTorch, Keras, Scikit-Learn, Numpy, Pandas, Matplotlib)\
 •	**Data Science**: Advance Linear Regression, Decision Tree, Random Forest, Gradient Boosting, Computer visions, Deep Learning, EDA, Statistical Hypothesis Testing (t-test, p-value), deployment (AWS)\
 •	**Soft skills**: Project Leadership, Problem-Solving, Interdisciplinary Collaboration, and Effective Communication.  

@@ -18,7 +18,7 @@ Advisor: Dr. Donald G. Truhlar\
 •	Developed a big data-optimized algorithm using active learning for quantum chemical analysis, processing big datasets with top-tier accuracy, ranking second in material property prediction among leading quantum methods [https://pubs.acs.org/doi/10.1021/acs.jctc.2c01315](https://pubs.acs.org/doi/10.1021/acs.jctc.2c01315).\
 •	Directed three major collaborative computational research projects, contributing to high-impact publications, and advanced the understanding of complex chemical reactions in material science.\
 •	Analyzed chemical databases and evaluated the optimal model chemistry for catalytic mechanism calculations, and collaboratively designed streamlined computational approaches with experimentalists for each study.\
-•	Developed FREQ Python program for vibrational frequency calculation from this [website](https://comp.chem.umn.edu/freqscale/).\
+•	Developed FREQ Python program for vibrational frequency calculation. Codes and all databases are available through [website](https://comp.chem.umn.edu/freqscale/).\
 •	Advanced user of HPC at the Minnesota Supercomputing Institute (MSI), skilled in compiling programs, managing multiple job executions, and developing code and scripts for optimized performance.\
 •	Authored eight peer-reviewed journals [publications](https://orcid.org/my-orcid?orcid=0000-0003-4906-020X) and presented at several conferences.
 

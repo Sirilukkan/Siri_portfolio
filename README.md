@@ -20,7 +20,7 @@ Advisor: Dr. Donald G. Truhlar\
 •	Analyzed chemical databases and evaluated the optimal model chemistry for catalytic mechanism calculations, and collaborative designed streamlined computational approaches with experimentalists for each study.\
 •	Developed FREQ Python program for vibrational frequency calculation [https://comp.chem.umn.edu/freqscale/].\
 •	Advanced user of HPC at the Minnesota Supercomputing Institute (MSI), skilled in compiling programs, managing multiple job executions, and developing code and scripts for optimized performance.\
-•	Authored eight peer-reviewed journals publications ![publication]([https://github.com/Sirilukkan/Siri_portfolio/assets/102700655/bdb4ac85-53d6-4846-a09c-ee371106de8b](https://orcid.org/my-orcid?orcid=0000-0003-4906-020X)) and presented at several conferences.
+•	Authored eight peer-reviewed journals ![publications]([https://github.com/Sirilukkan/Siri_portfolio/assets/102700655/bdb4ac85-53d6-4846-a09c-ee371106de8b](https://orcid.org/my-orcid?orcid=0000-0003-4906-020X)) and presented at several conferences.
 
 ### EDUCATION
 -----------

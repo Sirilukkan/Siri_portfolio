@@ -33,10 +33,11 @@ B.S. in Chemistry, Mahidol University, Bangkok, Thailand – GPA: 3.6	2011 – 2
 •	**Data Science**: Advance Linear Regression, Decision Tree, Random Forest, Gradient Boosting, Computer visions, Deep Learning, EDA, Statistical Hypothesis Testing (t-test, p-value), deployment (AWS)\
 •	**Soft skills**: Project Leadership, Problem-Solving, Interdisciplinary Collaboration, and Effective Communication.  
 
-### CERTIFICATE 
+### CERTIFICATES
 -----------
 Data Science on Cloud with AWS | Great Learning					     		    2023\
-Applied Data Science Program | MIT					       		      		    2022
+Applied Data Science Program | MIT					       		      		    2022\ 
+Python Data Structures | Coursera                                   2022
 
 
 

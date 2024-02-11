@@ -7,8 +7,8 @@ Senior Data Scientist with a Ph.D. in Computational Chemistry, specializing in e
 ### WORK EXPERIENCE
 -----------
 **Senior Data Scientist** @ DuPont | Sunnyvale, CA
-•	Led five high-value projects across business units, leveraging data collection systems, data analytics, machine learning and computational chemistry to streamline decision-making and improve operational efficiency.
-•	Designed and developed predictive models using decision trees and advance linear regression in Python, enhancing the performance of a new customer product in the electronics sector by 15%.
+•	Led five high-value projects across business units, leveraging data collection systems, data analytics, machine learning and computational chemistry to streamline decision-making and improve operational efficiency.\
+•	Designed and developed predictive models using decision trees and advance linear regression in Python, enhancing the performance of a new customer product in the electronics sector by 15%.\
 •	Created a Python-based machine learning tool for chemists to streamline the design of innovative formulations, significantly accelerating experimental chemical analysis.
 •	Executed exploratory data analysis and employed Bayesian optimization to develop in-house healthcare materials, achieving breakthroughs in one month that reduce vendor dependency.
 •	Applied state-of-the-art natural language processing to decode chemical data, yielding critical insights for the development of innovative formulations and establishing a foundation framework for the team.
@@ -23,6 +23,7 @@ Advisor: Dr. Donald G. Truhlar
 •	Authored eight peer-reviewed journals publications [https://orcid.org/my-orcid?orcid=0000-0003-4906-020X] and presented at several conferences.
 
 ### EDUCATION
+-----------
 Ph.D. in Chemistry, University of Minnesota, Minneapolis, MN – GPA: 3.9	 2017 – 2022
 M.S. in Chemistry, Mahidol University, Bangkok, Thailand – GPA: 4.0	2014 – 2017
 B.S. in Chemistry, Mahidol University, Bangkok, Thailand – GPA: 3.6	2011 – 2014
@@ -33,6 +34,7 @@ B.S. in Chemistry, Mahidol University, Bangkok, Thailand – GPA: 3.6	2011 – 2
 •	**Soft skills**: Project Leadership, Problem-Solving, Interdisciplinary Collaboration, and Effective Communication.  
 
 ### CERTIFICATE 
+-----------
 Data Science on Cloud with AWS | Great Learning					     		    2023
 Applied Data Science Program | MIT					       		      		    2022
 

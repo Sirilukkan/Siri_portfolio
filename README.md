@@ -37,7 +37,7 @@ B.S. in Chemistry, Mahidol University, Bangkok, Thailand – GPA: 3.6	2011 – 2
 ### CERTIFICATES
 -----------
 Data Science on Cloud with AWS | Great Learning					     		    2023\
-Applied Data Science Program | MIT					       		      		    2022\ 
+Applied Data Science Program | MIT					       		      		    2022  
 Python Data Structures | Coursera                                   2022
 
 

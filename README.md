@@ -40,6 +40,11 @@ Data Science on Cloud with AWS | Great Learning					     		    2023\
 Applied Data Science Program | MIT					       		      		    2022  
 Python Data Structures | Coursera                                   2022  
 
+### PROJECTS
+----------- 
+#### 1. [Malaria Detection](https://github.com/Sirilukkan/Data_Science_Projects/tree/main/Computer_Vision/Malaria_Detection)  
+  detected malaria from red blood cell images with 98.6% accuracy by building a computer vision model using Convolutional Neural Networks (CNNs) on Images Data Augmentation
+
 ### PUBLICATIONS
 -----------  
 1. [M11pz: A Nonlocal Meta Functional with Zero Hartree–Fock Exchange and with Broad Accuracy for Chemical Energies and Structures](https://pubs.acs.org/doi/10.1021/acs.jctc.2c01315)

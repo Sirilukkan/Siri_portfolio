@@ -13,14 +13,19 @@ Senior Data Scientist with a Ph.D. in Computational Chemistry, specializing in e
 •	Executed exploratory data analysis and employed Bayesian optimization to develop in-house healthcare materials, achieving breakthroughs in one month that reduced vendor dependency.\
 •	Applied state-of-the-art natural language processing to decode chemical data, yielding critical insights for the development of innovative formulations and establishing a foundation framework for the team.
 
-**Research Assistant** | Dept of Chemistry, University of Minnesota | Minneapolis, MN	2017 – 2022\
+**Research Assistant** @ Dept of Chemistry, University of Minnesota | Minneapolis, MN	2017 – 2022\
 Advisor: Dr. Donald G. Truhlar\
 •	Developed a big data-optimized algorithm using active learning for quantum chemical analysis, processing big datasets with top-tier accuracy, ranking second in material property prediction among leading quantum methods [https://pubs.acs.org/doi/10.1021/acs.jctc.2c01315](https://pubs.acs.org/doi/10.1021/acs.jctc.2c01315).\
 •	Directed three major collaborative computational research projects, contributing to high-impact publications, and advanced the understanding of complex chemical reactions in material science.\
 •	Analyzed chemical databases and evaluated the optimal model chemistry for catalytic mechanism calculations, and collaboratively designed streamlined computational approaches with experimentalists for each study.\
 •	Developed FREQ Python program for vibrational frequency calculation. Codes and all databases are available through [website](https://comp.chem.umn.edu/freqscale/).\
 •	Advanced user of HPC at the Minnesota Supercomputing Institute (MSI), skilled in compiling programs, managing multiple job executions, and developing code and scripts for optimized performance.\
-•	Authored eight peer-reviewed journal [publications](###PUBLICATIONS) and presented at several conferences.
+•	Authored eight peer-reviewed journal [publications](###PUBLICATIONS) and presented at several conferences.  
+
+**Research Intern** @ National Nanotechnology Center (NANOTEC) | Bangkok | Thailand	2015 – 2016\
+Nanoscale Simulation Laboratory (SIM-Lab)\
+•	Utilized Material Studio Project to model TiO2 semiconductor surfaces and dye adsorption, employing DFT for both ground state and excited state calculations in VASP to assess optical properties and energy levels, targeting enhanced solar cell efficiency. 
+
 
 ### EDUCATION
 -----------

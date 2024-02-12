@@ -45,7 +45,9 @@ Python Data Structures | Coursera                                   2022
 #### 1. [Malaria Detection](https://github.com/Sirilukkan/Data_Science_Projects/tree/main/Computer_Vision/Malaria_Detection)  
   detected malaria from red blood cell images with 98.6% accuracy by building a computer vision model using Convolutional Neural Networks (CNNs) on Images Data Augmentation  
 #### 2. [Experience of passengers that travel by Shinkansen Bullet Train](https://github.com/Sirilukkan/Data_Science_Projects/tree/main/Hackathon/Shinkansen%20Bullet%20Train)
-  Predicted overall experience of passengers that travel by Shinkansen Bullet Train with 94.5% accuracy using logistic regression, decision tree, random forest, and ANNs
+  Predicted overall experience of passengers that travel by Shinkansen Bullet Train with 94.5% accuracy using logistic regression, decision tree, random forest, and ANNs  
+#### 3. [Tic-Tac-Toe Games](https://github.com/Sirilukkan/Python/tree/main/Tic_Tac_Toe_game)  
+  Create a tic-tac-toe game using Python
 
 
 ### PUBLICATIONS

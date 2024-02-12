@@ -11,7 +11,9 @@ Senior Data Scientist with a Ph.D. in Computational Chemistry, specializing in e
 •	Designed and developed predictive models using decision trees and advance linear regression in Python, enhancing the performance of a new customer product in the electronics sector by 15%.\
 •	Created a Python-based machine learning tool for chemists to streamline the design of innovative formulations, significantly accelerating experimental chemical analysis.
 •	Executed exploratory data analysis and employed Bayesian optimization to develop in-house healthcare materials, achieving breakthroughs in one month that reduced vendor dependency.\
-•	Applied state-of-the-art natural language processing to decode chemical data, yielding critical insights for the development of innovative formulations and establishing a foundation framework for the team.
+•	Applied state-of-the-art natural language processing to decode chemical data, yielding critical insights for the development of innovative formulations and establishing a foundation framework for the team.\
+•	Managed project timelines and allocated resources to align with strategic research goals in R&D, ensuring project deliverables met or exceeded set goals.\
+•	Represented DuPont at SEMICON West conference, presenting on “A Day in the Life of a Data Scientist” providing insights into roles, challenges, and impacts of data science in industry.
 
 **Research Assistant** @ Dept of Chemistry, University of Minnesota | Minneapolis, MN	2017 – 2022\
 Advisor: Dr. Donald G. Truhlar\

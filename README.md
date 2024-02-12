@@ -20,7 +20,7 @@ Advisor: Dr. Donald G. Truhlar\
 •	Analyzed chemical databases and evaluated the optimal model chemistry for catalytic mechanism calculations, and collaboratively designed streamlined computational approaches with experimentalists for each study.\
 •	Developed FREQ Python program for vibrational frequency calculation. Codes and all databases are available through [website](https://comp.chem.umn.edu/freqscale/).\
 •	Advanced user of HPC at the Minnesota Supercomputing Institute (MSI), skilled in compiling programs, managing multiple job executions, and developing code and scripts for optimized performance.\
-•	Authored eight peer-reviewed journals [publications](https://orcid.org/my-orcid?orcid=0000-0003-4906-020X) and presented at several conferences.
+•	Authored eight peer-reviewed journal [publications](###_PUBLCICATION) and presented at several conferences.
 
 ### EDUCATION
 -----------
@@ -38,8 +38,18 @@ B.S. in Chemistry, Mahidol University, Bangkok, Thailand – GPA: 3.6	2011 – 2
 -----------
 Data Science on Cloud with AWS | Great Learning					     		    2023\
 Applied Data Science Program | MIT					       		      		    2022  
-Python Data Structures | Coursera                                   2022
+Python Data Structures | Coursera                                   2022  
 
+### PUBLICATIONS
+-----------  
+1. [M11pz: A Nonlocal Meta Functional with Zero Hartree–Fock Exchange and with Broad Accuracy for Chemical Energies and Structures](https://pubs.acs.org/doi/10.1021/acs.jctc.2c01315)\
+2. [Bioinspired Cu(II) Defect Sites in ZIF-8 for Selective Methane Oxidation](https://pubs.acs.org/doi/10.1021/jacs.3c06981)\
+3. [Examination of How Well Long-Range-Corrected Density Functionals Satisfy the Ionization Energy Theorem](https://pubs.acs.org/doi/10.1021/acs.jctc.1c00440)\
+4. [Two-Dimensional Pd Rafts Confined in Copper Nanosheets for Selective Semihydrogenation of Acetylene](https://pubs.acs.org/doi/10.1021/acs.nanolett.1c01124)\
+5. [Unexpected “Spontaneous” Evolution of Catalytic, MOF-Supported Single Cu(II) Cations to Catalytic, MOF-Supported Cu(0) Nanoparticles](https://pubs.acs.org/doi/10.1021/jacs.0c10367)\
+6. [Diabatic States of Molecules](https://pubs.acs.org/doi/10.1021/acs.jpca.1c10583)\
+7. [Multi-state pair-density functional theory](https://pubs.rsc.org/en/content/articlelanding/2020/fd/d0fd00037j)\
+8. [Conservation of Angular Momentum in Direct Nonadiabatic Dynamics](https://pubs.acs.org/doi/10.1021/acs.jpclett.9b03749)
 
 
 

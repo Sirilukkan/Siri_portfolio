@@ -56,7 +56,9 @@ Python Data Structures | Coursera                                   2022
 #### 3. [Tic-Tac-Toe Games](https://github.com/Sirilukkan/Python/tree/main/Tic_Tac_Toe_game)  
   Create a tic-tac-toe game using Python  
 #### 4. [Personal budget interactive dashboard with Excel](https://github.com/Sirilukkan/Data_analysis/tree/main/Excels/Dashboard)  
-#### 5. [Travel Plan Generator with LLMs](https://github.com/Sirilukkan/LLMs_NLPs_GenerativeAI/tree/main/TravelPlanGenerator)
+#### 5. [Travel Plan Generator with LLMs](https://github.com/Sirilukkan/LLMs_NLPs_GenerativeAI/tree/main/TravelPlanGenerator)  
+  Developed and integrated OpenAI's API, LangChain, and Streamlit to build a Large Language Model that generates personalized one-week travel plans with recommended attractions, restaurants, and daily itineraries based on user-selected countries via a dropdown menu.![image](https://github.com/Sirilukkan/Siri_portfolio/assets/102700655/930aab81-df3f-4426-9884-8aa5cd2eb3b5)
+
 
 
 ### PUBLICATIONS

@@ -55,7 +55,8 @@ Python Data Structures | Coursera                                   2022
   Predicted overall experience of passengers that travel by Shinkansen Bullet Train with 94.5% accuracy using logistic regression, decision tree, random forest, and ANNs  
 #### 3. [Tic-Tac-Toe Games](https://github.com/Sirilukkan/Python/tree/main/Tic_Tac_Toe_game)  
   Create a tic-tac-toe game using Python  
-#### 4. [Personal budget interactive dashboard with Excel](https://github.com/Sirilukkan/Data_analysis/tree/main/Excels/Dashboard)
+#### 4. [Personal budget interactive dashboard with Excel](https://github.com/Sirilukkan/Data_analysis/tree/main/Excels/Dashboard)  
+#### 5. [Travel Plan Generator with LLMs](https://github.com/Sirilukkan/LLMs_NLPs_GenerativeAI/tree/main/TravelPlanGenerator)
 
 
 ### PUBLICATIONS

@@ -9,8 +9,8 @@ Senior Data Scientist with a Ph.D. in Computational Chemistry, specializing in e
 **Senior Data Scientist** @ DuPont | Sunnyvale, CA\
 •	Led five high-value projects across business units, leveraging data collection systems, data analytics, machine learning, and computational chemistry to streamline decision-making and improve operational efficiency.\
 •	Designed and developed predictive models using decision trees and advance linear regression in Python, enhancing the performance of a new customer product in the electronics sector by 15%.\
-•	Created a Python-based machine learning tool for chemists to streamline the design of innovative formulations, significantly accelerating experimental chemical analysis.
-•	Executed exploratory data analysis and employed Bayesian optimization to develop in-house healthcare materials, achieving breakthroughs in one month that reduced vendor dependency.\
+•	Created a Python-based machine learning tool for chemists to streamline the design of innovative formulations, significantly accelerating experimental chemical analysis.  
+* Executed exploratory data analysis and employed Bayesian optimization to develop in-house healthcare materials, achieving breakthroughs in one month that reduced vendor dependency.\
 •	Applied state-of-the-art natural language processing to decode chemical data, yielding critical insights for the development of innovative formulations and establishing a foundation framework for the team.\
 •	Managed project timelines and allocated resources to align with strategic research goals in R&D, ensuring project deliverables met or exceeded set goals.\
 •	Represented DuPont at SEMICON West conference, presenting on “A Day in the Life of a Data Scientist” providing insights into roles, challenges, and impacts of data science in industry.
@@ -50,7 +50,7 @@ Python Data Structures | Coursera                                   2022
 ### PROJECTS
 ----------- 
 #### 1. [Malaria Detection](https://github.com/Sirilukkan/Data_Science_Projects/tree/main/Computer_Vision/Malaria_Detection) from Applied Data Science Program
-  detected malaria from red blood cell images with 98.6% accuracy by building a computer vision model using Convolutional Neural Networks (CNNs) on Images Data Augmentation  
+  Detected malaria from red blood cell images with 98.6% accuracy by building a computer vision model using Convolutional Neural Networks (CNNs) on Images Data Augmentation  
 #### 2. [Hackathon: Experience of passengers that travel by Shinkansen Bullet Train](https://github.com/Sirilukkan/Data_Science_Projects/tree/main/Hackathon/Shinkansen%20Bullet%20Train)
   Predicted overall experience of passengers that travel by Shinkansen Bullet Train with 94.5% accuracy using logistic regression, decision tree, random forest, and ANNs  
 #### 3. [Tic-Tac-Toe Games](https://github.com/Sirilukkan/Python/tree/main/Tic_Tac_Toe_game)  

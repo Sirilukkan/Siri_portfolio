@@ -1,6 +1,6 @@
 # Data Scientist  
 
-### SUMMARY
+### About Me
 -----------
 Senior Data Scientist with a Ph.D. in Computational Chemistry, specializing in end-to-end data analytics, machine learning, and computational methods. Skilled in developing machine learning models and optimization algorithms, leading to a proven 15% increase in new product performance. Published multiple peer-reviewed articles, demonstrating expertise in big data analysis in high-performance computing, project leadership, and interdisciplinary collaboration.
 

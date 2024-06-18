@@ -49,7 +49,7 @@ Python Data Structures | Coursera                                   2022
 
 ### PROJECTS
 ----------- 
-#### 1. [Malaria Detection](https://github.com/Sirilukkan/Data_Science_Projects/tree/main/Computer_Vision/Malaria_Detection) from Applied Data Science Program
+#### 1. [Convolutional Neural Network for Malaria Detection](https://github.com/Sirilukkan/Data_Science_Projects/tree/main/Computer_Vision/Malaria_Detection) from Applied Data Science Program
   Detected malaria from red blood cell images with 98.6% accuracy by building a computer vision model using Convolutional Neural Networks (CNNs) on image data augmentation  
 #### 2. [Hackathon: Experience of passengers that travel by Shinkansen Bullet Train](https://github.com/Sirilukkan/Data_Science_Projects/tree/main/Hackathon/Shinkansen%20Bullet%20Train)
   Predicted overall experience of passengers that travel by Shinkansen Bullet Train with 94.5% accuracy using logistic regression, decision tree, random forest, and ANNs  

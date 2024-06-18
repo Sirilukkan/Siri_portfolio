@@ -50,15 +50,17 @@ Python Data Structures | Coursera                                   2022
 ### PROJECTS
 ----------- 
 #### 1. [Malaria Detection](https://github.com/Sirilukkan/Data_Science_Projects/tree/main/Computer_Vision/Malaria_Detection) from Applied Data Science Program
-  Detected malaria from red blood cell images with 98.6% accuracy by building a computer vision model using Convolutional Neural Networks (CNNs) on Images Data Augmentation  
+  Detected malaria from red blood cell images with 98.6% accuracy by building a computer vision model using Convolutional Neural Networks (CNNs) on image data augmentation  
 #### 2. [Hackathon: Experience of passengers that travel by Shinkansen Bullet Train](https://github.com/Sirilukkan/Data_Science_Projects/tree/main/Hackathon/Shinkansen%20Bullet%20Train)
   Predicted overall experience of passengers that travel by Shinkansen Bullet Train with 94.5% accuracy using logistic regression, decision tree, random forest, and ANNs  
 #### 3. [Tic-Tac-Toe Games](https://github.com/Sirilukkan/Python/tree/main/Tic_Tac_Toe_game)  
   Create a tic-tac-toe game using Python  
 #### 4. [Personal budget interactive dashboard with Excel](https://github.com/Sirilukkan/Data_analysis/tree/main/Excels/Dashboard)  
 #### 5. [Travel Plan Generator with LLMs](https://github.com/Sirilukkan/LLMs_NLPs_GenerativeAI/tree/main/TravelPlanGenerator)  
-  Developed and integrated OpenAI's API, LangChain, and Streamlit to build a Large Language Model that generates personalized one-week travel plans with recommended attractions, restaurants, and daily itineraries based on user-selected countries via a dropdown menu.
-
+  Developed and integrated OpenAI's API, LangChain, and Streamlit to build a Large Language Model that generates personalized one-week travel plans with recommended attractions, restaurants, and daily itineraries based on user-selected countries via a dropdown menu.  
+#### 6. [Classification ML Model Packaging with Python](https://github.com/Sirilukkan/MLOps/tree/main/Packaging_ClassificationModels_online_food)  
+  Utilized MLOps to deploy and package robust ML models, predicting customer feedback from food ordering data using demographic and behavioral insights.	
+  
 ### PUBLICATIONS
 -----------  
 1. [M11pz: A Nonlocal Meta Functional with Zero Hartree–Fock Exchange and with Broad Accuracy for Chemical Energies and Structures](https://pubs.acs.org/doi/10.1021/acs.jctc.2c01315)

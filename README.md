@@ -53,14 +53,14 @@ Python Data Structures | Coursera                                   2022
   Detected malaria from red blood cell images with 98.6% accuracy by building a computer vision model using Convolutional Neural Networks (CNNs) on image data augmentation  
 #### 2. [Hackathon: Experience of passengers that travel by Shinkansen Bullet Train](https://github.com/Sirilukkan/Data_Science_Projects/tree/main/Hackathon/Shinkansen%20Bullet%20Train)
   Predicted overall experience of passengers that travel by Shinkansen Bullet Train with 94.5% accuracy using logistic regression, decision tree, random forest, and ANNs  
-#### 3. [Advanced-Sales-and-Finance-Analytics]([https://github.com/Sirilukkan/Python/tree/main/Tic_Tac_Toe_game](https://github.com/Sirilukkan/Excel-Advance-Sale-and-Finance-Analytics)  
+#### 3. [Advanced-Sales-and-Finance-Analytics](https://github.com/Sirilukkan/Excel-Advance-Sale-and-Finance-Analytics)  
   This project utilizes sales and finance data from AtliQ Hardware Company to create detailed analytics reports aimed at enhancing business decision-making. The sales reports focus on tracking customer and market performance, analyzing top products, and evaluating new product launches, while the finance reports concentrate on profit and loss analysis and gross margin assessment across various segments. Technical skills such as ETL, data transformation, and modeling, along with a strong foundation in sales, finance, and user-centric report design, are emphasized for effective report generation and analysis.
 #### 4. [Personal budget interactive dashboard with Excel](https://github.com/Sirilukkan/Data_analysis/tree/main/Excels/Dashboard)  
 #### 5. [Travel Plan Generator with LLMs](https://github.com/Sirilukkan/LLMs_NLPs_GenerativeAI/tree/main/TravelPlanGenerator)  
   Developed and integrated OpenAI's API, LangChain, and Streamlit to build a Large Language Model that generates personalized one-week travel plans with recommended attractions, restaurants, and daily itineraries based on user-selected countries via a dropdown menu.  
 #### 6. [Classification ML Model Packaging with Python](https://github.com/Sirilukkan/MLOps/tree/main/Packaging_ClassificationModels_online_food)  
   Utilized MLOps to deploy and package robust ML models, predicting customer feedback from food ordering data using demographic and behavioral insights.	
-#### 7. [Marketing Campaign Analysis]([https://github.com/Sirilukkan/MLOps/tree/main/Packaging_ClassificationModels_online_food](https://github.com/Sirilukkan/Data_Science_Projects/tree/main/Marketing%20Campaign%20Analysis))  
+#### 7. [Marketing Campaign Analysis](https://github.com/Sirilukkan/Data_Science_Projects/tree/main/Marketing%20Campaign%20Analysis)
   In this project, the goal is to analyze marketing data for the company 'All You Need' to identify why recent campaigns have had low conversion rates. The analysis focuses on customer profiles, campaign successes or failures, and channel performances to uncover key insights. These findings will help provide recommendations to the Chief Marketing Officer for optimizing future marketing strategies and improving overall campaign effectiveness.	
   
 ### PUBLICATIONS
@@ -73,6 +73,7 @@ Python Data Structures | Coursera                                   2022
 6. [Diabatic States of Molecules](https://pubs.acs.org/doi/10.1021/acs.jpca.1c10583)
 7. [Multi-state pair-density functional theory](https://pubs.rsc.org/en/content/articlelanding/2020/fd/d0fd00037j)
 8. [Conservation of Angular Momentum in Direct Nonadiabatic Dynamics](https://pubs.acs.org/doi/10.1021/acs.jpclett.9b03749)
+9. [Small Representative Databases for Testing and Validating Density Functionals and Other Electronic Structure Methods](https://pubs.acs.org/doi/10.1021/acs.jpca.4c03137)
 
 
 

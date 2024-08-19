@@ -2,7 +2,7 @@
 
 ### About Me
 -----------
-Senior Data Scientist with a Ph.D. in Computational Chemistry, specializing in end-to-end data analytics, machine learning, and computational methods. Skilled in developing machine learning models and optimization algorithms, leading to a proven 15% increase in new product performance. Published multiple peer-reviewed articles, demonstrating expertise in big data analysis in high-performance computing, project leadership, and interdisciplinary collaboration.
+I am a Data Scientist with a Ph.D. in Computational Chemistry and over three years of experience in data analysis and machine learning. I excel in extracting actionable insights from complex datasets to drive business decisions and have successfully led projects that resulted in significant performance improvements and revenue growth. Proficient in Python, SQL, and data visualization, I collaborate effectively with cross-functional teams to create impactful solutions. I am passionate about continuous learning and eager to contribute to innovative, data-driven projects.
 
 ### WORK EXPERIENCE
 -----------
@@ -53,13 +53,15 @@ Python Data Structures | Coursera                                   2022
   Detected malaria from red blood cell images with 98.6% accuracy by building a computer vision model using Convolutional Neural Networks (CNNs) on image data augmentation  
 #### 2. [Hackathon: Experience of passengers that travel by Shinkansen Bullet Train](https://github.com/Sirilukkan/Data_Science_Projects/tree/main/Hackathon/Shinkansen%20Bullet%20Train)
   Predicted overall experience of passengers that travel by Shinkansen Bullet Train with 94.5% accuracy using logistic regression, decision tree, random forest, and ANNs  
-#### 3. [Tic-Tac-Toe Games](https://github.com/Sirilukkan/Python/tree/main/Tic_Tac_Toe_game)  
-  Create a tic-tac-toe game using Python  
+#### 3. [Advanced-Sales-and-Finance-Analytics]([https://github.com/Sirilukkan/Python/tree/main/Tic_Tac_Toe_game](https://github.com/Sirilukkan/Excel-Advance-Sale-and-Finance-Analytics)  
+  This project utilizes sales and finance data from AtliQ Hardware Company to create detailed analytics reports aimed at enhancing business decision-making. The sales reports focus on tracking customer and market performance, analyzing top products, and evaluating new product launches, while the finance reports concentrate on profit and loss analysis and gross margin assessment across various segments. Technical skills such as ETL, data transformation, and modeling, along with a strong foundation in sales, finance, and user-centric report design, are emphasized for effective report generation and analysis.
 #### 4. [Personal budget interactive dashboard with Excel](https://github.com/Sirilukkan/Data_analysis/tree/main/Excels/Dashboard)  
 #### 5. [Travel Plan Generator with LLMs](https://github.com/Sirilukkan/LLMs_NLPs_GenerativeAI/tree/main/TravelPlanGenerator)  
   Developed and integrated OpenAI's API, LangChain, and Streamlit to build a Large Language Model that generates personalized one-week travel plans with recommended attractions, restaurants, and daily itineraries based on user-selected countries via a dropdown menu.  
 #### 6. [Classification ML Model Packaging with Python](https://github.com/Sirilukkan/MLOps/tree/main/Packaging_ClassificationModels_online_food)  
   Utilized MLOps to deploy and package robust ML models, predicting customer feedback from food ordering data using demographic and behavioral insights.	
+#### 7. [Marketing Campaign Analysis]([https://github.com/Sirilukkan/MLOps/tree/main/Packaging_ClassificationModels_online_food](https://github.com/Sirilukkan/Data_Science_Projects/tree/main/Marketing%20Campaign%20Analysis))  
+  In this project, the goal is to analyze marketing data for the company 'All You Need' to identify why recent campaigns have had low conversion rates. The analysis focuses on customer profiles, campaign successes or failures, and channel performances to uncover key insights. These findings will help provide recommendations to the Chief Marketing Officer for optimizing future marketing strategies and improving overall campaign effectiveness.	
   
 ### PUBLICATIONS
 -----------  

@@ -6,10 +6,14 @@ I am a Data Scientist with a Ph.D. in Computational Chemistry and over three yea
 
 ### WORK EXPERIENCE
 -----------
+**Research Scientist** @ University of Minnesota | Minneapolis, MN  
+•	Developed representative energetic databases using genetic algorithms, achieving an 8% error deviation from large datasets, and providing efficient benchmarks for electronic structure methods and density functionals.  
+• Conducted data analysis and modeling to support research initiatives, identifying trends and patterns that informed strategic decisions.
+
 **Senior Data Scientist** @ DuPont | Sunnyvale, CA\
 •	Led five high-value projects across business units, leveraging data collection systems, data analytics, machine learning, and computational chemistry to streamline decision-making and improve operational efficiency.\
 •	Designed and developed predictive models using decision trees and advance linear regression in Python, enhancing the performance of a new customer product in the electronics sector by 15%.\
-•	Created a Python-based machine learning tool for chemists to streamline the design of innovative formulations, significantly accelerating experimental chemical analysis.\  
+•	Created a Python-based machine learning tool for chemists to streamline the design of innovative formulations, significantly accelerating experimental chemical analysis.
 •	Executed exploratory data analysis and employed Bayesian optimization to develop in-house healthcare materials, achieving breakthroughs in one month that reduced vendor dependency.\
 •	Applied state-of-the-art natural language processing to decode chemical data, yielding critical insights for the development of innovative formulations and establishing a foundation framework for the team.\
 •	Managed project timelines and allocated resources to align with strategic research goals in R&D, ensuring project deliverables met or exceeded set goals.\
